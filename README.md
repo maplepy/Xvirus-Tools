@@ -95,5 +95,4 @@ Distributed under the MIT License. See [LICENSE](https://github.com/Xvirus-Team/
 
 ## Authors
 
-* **DEXV** - *Shit head (retarded)* - [DEXV](https://dexv.lol) - *Fully Maintaining Xvirus*
-* **AdminX** - *Just Another German Retard* - [AdminX](https://adminx.pro) - *Maintaining Xvirus As Side Project*
+* **hazardnuker**: who got its project stolen and not credited
